@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=30
+LEVEL_PREFIX=1
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=72219e7a488d41989fc98ddba9cbd8be
+IDENTIFIER=gvfs-goa-volume-monitor

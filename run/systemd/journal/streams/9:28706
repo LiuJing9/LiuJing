@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=4
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=7c728fd614f3452ca26d56f89b6ade63
+IDENTIFIER=org.gnome.SettingsDaemon.Clipboard.desktop

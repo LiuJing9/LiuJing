@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=4
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=581889ee56ef4fd1a582cc5d8428ef58
+IDENTIFIER=org.gnome.SettingsDaemon.Sound.desktop

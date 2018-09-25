@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=6
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=ceff56fb73164ec58c0dfaf8009d4051
+IDENTIFIER=org.gnome.SettingsDaemon.MediaKeys.desktop

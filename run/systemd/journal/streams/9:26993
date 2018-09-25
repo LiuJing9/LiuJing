@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=6
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=72ce6d56c3b84a7a9524bc8653fa74e1
+IDENTIFIER=org.gnome.SettingsDaemon.Power.desktop

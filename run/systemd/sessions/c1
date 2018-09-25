@@ -1,0 +1,19 @@
+# This is private data. Do not parse.
+UID=135
+USER=Debian-gdm
+ACTIVE=0
+STATE=online
+REMOTE=0
+TYPE=x11
+CLASS=greeter
+SCOPE=session-c1.scope
+FIFO=/run/systemd/sessions/c1.ref
+SEAT=seat0
+TTY=tty1
+SERVICE=gdm-launch-environment
+VTNR=1
+LEADER=770
+REALTIME=1537866894586491
+MONOTONIC=20452425
+CONTROLLER=:1.13
+DEVICES=13:68 13:64 13:65 13:66 13:67 226:0 

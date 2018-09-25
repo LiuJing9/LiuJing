@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=4
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=afd397a0b29d42f1a71984e2e7aab38d
+IDENTIFIER=org.gnome.SettingsDaemon.A11ySettings.desktop

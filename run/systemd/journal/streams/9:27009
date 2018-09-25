@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=6
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=f1688f4a023d4ba498351aa12f4d4ac2
+IDENTIFIER=org.gnome.SettingsDaemon.ScreensaverProxy.desktop

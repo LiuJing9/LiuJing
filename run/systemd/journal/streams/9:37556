@@ -1,0 +1,9 @@
+# This is private data. Do not parse
+PRIORITY=30
+LEVEL_PREFIX=1
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=9d06b6ceb8e84d5abfa5ffcbd73cc241
+IDENTIFIER=faraday-server.py
+UNIT=python-faraday.service

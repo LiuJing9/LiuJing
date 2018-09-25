@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=6
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=06fef0b8f0e04722b1d32940071f82fb
+IDENTIFIER=org.gnome.SettingsDaemon.Smartcard.desktop

@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=6
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=5d9d3cfbedfb4c94b4931ba56c62d18b
+IDENTIFIER=org.gnome.SettingsDaemon.Mouse.desktop

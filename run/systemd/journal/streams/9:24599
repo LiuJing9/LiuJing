@@ -1,0 +1,8 @@
+# This is private data. Do not parse
+PRIORITY=4
+LEVEL_PREFIX=0
+FORWARD_TO_SYSLOG=0
+FORWARD_TO_KMSG=0
+FORWARD_TO_CONSOLE=0
+STREAM_ID=d444b00555ae490282d1409261dded6e
+IDENTIFIER=org.gnome.SettingsDaemon.PrintNotifications.desktop
