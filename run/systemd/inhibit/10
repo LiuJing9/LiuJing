@@ -1,8 +1,0 @@
-# This is private data. Do not parse.
-WHAT=sleep
-MODE=delay
-UID=0
-PID=1490
-WHO=root
-WHY=GNOME needs to lock the screen
-FIFO=/run/systemd/inhibit/10.ref

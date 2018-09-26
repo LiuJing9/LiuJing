@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=fdeeeb0aebf941c7b751b7dde2d906a9
-IDENTIFIER=org.gnome.SettingsDaemon.Sharing.desktop

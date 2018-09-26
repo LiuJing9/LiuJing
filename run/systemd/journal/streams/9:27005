@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=6
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=f7bd09b05dd242cfa8ec4a288a3bd38b
-IDENTIFIER=org.gnome.SettingsDaemon.Rfkill.desktop

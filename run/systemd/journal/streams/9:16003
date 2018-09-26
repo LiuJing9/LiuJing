@@ -1,9 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=30
-LEVEL_PREFIX=1
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=ee0235f81db14ee2af9dee1c008c5803
-IDENTIFIER=irqbalance
-UNIT=irqbalance.service

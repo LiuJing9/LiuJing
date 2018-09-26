@@ -1,8 +1,0 @@
-# This is private data. Do not parse.
-WHAT=sleep
-MODE=delay
-UID=0
-PID=1141
-WHO=UPower
-WHY=Pause device polling
-FIFO=/run/systemd/inhibit/3.ref

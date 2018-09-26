@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=b3cac040d87f49249d69db7db0ce8d18
-IDENTIFIER=org.gnome.Evolution-alarm-notify.desktop

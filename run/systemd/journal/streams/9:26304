@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=6
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=8ee1ea8c868e4159847dd6ebf7fcaecd
-IDENTIFIER=org.gnome.Identity

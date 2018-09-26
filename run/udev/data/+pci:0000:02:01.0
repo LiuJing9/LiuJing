@@ -1,5 +1,0 @@
-I:11331227
-E:ID_PCI_CLASS_FROM_DATABASE=Network controller
-E:ID_PCI_SUBCLASS_FROM_DATABASE=Ethernet controller
-E:ID_VENDOR_FROM_DATABASE=Intel Corporation
-E:ID_MODEL_FROM_DATABASE=82545EM Gigabit Ethernet Controller (Copper) (PRO/1000 MT Single Port Adapter)

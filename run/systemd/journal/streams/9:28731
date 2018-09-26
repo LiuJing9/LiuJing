@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=2245c766bf19448980f769c5804e32d0
-IDENTIFIER=org.gnome.SettingsDaemon.Housekeeping.desktop

@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=c3011dab4a74459e95085ce9d6856695
-IDENTIFIER=org.gnome.SettingsDaemon.DiskUtilityNotify.desktop

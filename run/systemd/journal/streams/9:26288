@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=30
-LEVEL_PREFIX=1
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=43b77abeb0eb4091abd9a1ea677a3fc3
-IDENTIFIER=gvfs-gphoto2-volume-monitor

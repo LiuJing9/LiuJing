@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=8d56bc35734c490cb0e94a278f5615b7
-IDENTIFIER=org.gnome.SettingsDaemon.Color.desktop

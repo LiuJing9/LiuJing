@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=4
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=cee21f63a8ea4d7ab953e5cf74ed76d0
-IDENTIFIER=org.gnome.Shell.CalendarServer

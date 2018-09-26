@@ -1,8 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=6
-LEVEL_PREFIX=0
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=d8f7ef5f171043c4abe4274146d9c404
-IDENTIFIER=org.gnome.SettingsDaemon.Wacom.desktop

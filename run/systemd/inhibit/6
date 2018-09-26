@@ -1,8 +1,0 @@
-# This is private data. Do not parse.
-WHAT=sleep
-MODE=delay
-UID=135
-PID=1172
-WHO=Debian-gdm
-WHY=GNOME needs to lock the screen
-FIFO=/run/systemd/inhibit/6.ref

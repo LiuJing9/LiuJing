@@ -1,9 +1,0 @@
-# This is private data. Do not parse
-PRIORITY=30
-LEVEL_PREFIX=1
-FORWARD_TO_SYSLOG=0
-FORWARD_TO_KMSG=0
-FORWARD_TO_CONSOLE=0
-STREAM_ID=ea85c5b5d5ec458a8cd2aed47a96da66
-IDENTIFIER=systemd-logind
-UNIT=systemd-logind.service
